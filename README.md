@@ -22,11 +22,11 @@ Soy Ingeniero en Tecnologías de la Información y Comunicaciones, con amplia ex
 ## 📫 Contacto
 📧 **Correo Electrónico:** [roger.azcorra@gmail.com](mailto:roger.azcorra@gmail.com)
 
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rogerazcorra91/)
+💼 **LinkedIn:** [rogerazcorra91](https://www.linkedin.com/in/rogerazcorra91/)
 
-📘 **Facebook:** [TuFacebook](https://www.facebook.com/RoyerAzcorra91)
+📘 **Facebook:** [RoyerAzcorra91](https://www.facebook.com/RoyerAzcorra91)
 
-📸 **Instagram:** [TuInstagram](https://www.instagram.com/lord_royer?igsh=N3p3cnY2NWR2NjJq)
+📸 **Instagram:** [lord_royer](https://www.instagram.com/lord_royer?igsh=N3p3cnY2NWR2NjJq)
 
 Gracias por visitar mi perfil. Estoy abierto a oportunidades de colaboración y nuevos desafíos tecnológicos. 🚀
 
