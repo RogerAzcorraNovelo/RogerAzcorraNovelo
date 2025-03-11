@@ -4,8 +4,8 @@
 Soy Ingeniero en Tecnologías de la Información y Comunicaciones, con amplia experiencia en **Java**, **PHP**, **C#** y **C++**, especializado en el desarrollo de soluciones empresariales y de facturación electrónica. Actualmente, formo parte del equipo de desarrollo en [EdiFactMX](https://www.edifactmx.com/), donde implemento soluciones avanzadas con tecnologías modernas como **Spring Boot, SOAP, JWT y .NET**.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes de Programación:** Java (Java 8, Java 21), PHP (CakePHP 2.1, CakePHP 4, CodeIgniter 3), C#
-- **Bases de Datos:** SQL Server 2022, MySQL, FireBird, Oracle, PostgreSQL
+- **Lenguajes de Programación:** Java (Java 8, Java 21), PHP (CakePHP 2.1, CakePHP 4, CodeIgniter 3), C# (.NET)
+- **Bases de Datos:** SQL Server, MySQL, FireBird, Oracle, PostgreSQL
 - **Frameworks y Librerías:** Spring Boot, Metro 2.4.8, .NET 8, Maven.
 - **Herramientas de Desarrollo:** NetBeans, Visual Studio Code, Sublime Text, Docker, etc.
 - **Servidores:** Windows, Linux
